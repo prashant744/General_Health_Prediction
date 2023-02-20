@@ -1,5 +1,13 @@
 # General_Health_Prediction
 
+_____________𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐔𝐬𝐞𝐝__________
+1. HTML
+2. CSS
+3. JAVASCRIPT
+4. PYTHON
+5. DJANGO
+6. MACHINE LEARNING
+
 _______________setup__________________
 
 1. download the zip file
