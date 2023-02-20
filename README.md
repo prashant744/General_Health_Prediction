@@ -39,21 +39,40 @@ and run this file
 
 
 
+1. Home Page
+
 ![alt text](https://www.linkpicture.com/q/2023-02-19-6_1.png)
 
-
+2. Doctor Details
 
 ![alt text](https://www.linkpicture.com/q/2023-02-19-5.png)
 
 
+3. Admin DashBoard
 
 ![alt text](https://www.linkpicture.com/q/2023-02-19-10_1.png)
 
+4. Hearth Prediction
+
 ![alt text](https://www.linkpicture.com/q/2023-02-19-2.png)
 
 
+5. Genral Health Prediction
+
 ![alt text](https://www.linkpicture.com/q/2023-02-19-2.png)
+
+6. Django Administrative
+
 ![alt text](https://www.linkpicture.com/q/2023-02-19-13.png)
+
+7. Our Services
+
 ![alt text](https://www.linkpicture.com/q/2023-02-19-7.png)
+
+8. Add Hearth Details
+
 ![alt text](https://www.linkpicture.com/q/2023-02-19-1.png)
+
+9. Admin Pannel
+
 ![alt text](https://www.linkpicture.com/q/2023-02-19-11.png)
