@@ -1,6 +1,6 @@
 # General_Health_Prediction
 
-_____________𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐔𝐬𝐞𝐝__________
+### 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐔𝐬𝐞𝐝
 1. HTML
 2. CSS
 3. JAVASCRIPT
@@ -8,7 +8,46 @@ _____________𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐔𝐬𝐞𝐝__________
 5. DJANGO
 6. MACHINE LEARNING
 
-_______________setup__________________
+
+### 𝗔𝗣𝗣𝗥𝗢𝗔𝗖𝗛
+
+- Gathering the Data: Data preparation is the primary step for any machine learning problem. We will be using a dataset from Kaggle for this problem. This dataset consists of two CSV files one for training and one for testing.
+
+- Cleaning the Data: Cleaning is the most important step in a machine learning project. The quality of our data determines the quality of our machine learning model. So it is always necessary to clean the data before feeding it to the model for training.
+
+- Model Building: After gathering and cleaning the data, the data is ready and can be used to train a machine learning model. We will be using this cleaned data to train the Support Vector Classifier, Naive Bayes Classifier, and Random Forest Classifier. 
+
+- Inference: After training the three models we will be predicting the disease for the input symptoms by combining the predictions of all three models. This makes our overall prediction more robust and accurate.
+
+
+
+# Directory Structure
+
+```
+|_ dataset/
+         |_ training_data.csv
+         |_ test_data.csv
+
+|_ saved_model/
+         |_ [ pre-trained models ]
+
+|_ main.py [ code for laoding kaggle dataset, training & saving the model]
+
+|_ notebook/
+         |_ dataset/
+                  |_ raw_data.xlsx [Columbia dataset for notebook]
+         |_ Disease-Prediction-from-Symptoms-checkpoint.ipynb [ IPython Notebook for loading Columbia dataset, training model and Inference ]
+```
+
+# Usage
+
+Please make sure to install all dependencies before running the demo, using the following:
+
+```
+pip install -r requirements.txt
+```
+
+# setup
 
 1. download the zip file
 
@@ -22,12 +61,12 @@ _______________setup__________________
 
 
 
-_________________Requirements___________
+### Requirements
 
 python, machine lerning liabraries, dbbrowser, anaconda or pycharm or vscode
 
 
-______________libraries________________
+### libraries
 
 numpy
 pandas
@@ -38,7 +77,7 @@ seaborn
 **install these liabraries into the terminal**
 
 
-___________project running ______________
+### Project running 
 
 
 
